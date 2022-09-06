@@ -1,0 +1,9 @@
+body {
+    font-size: 20px;
+    background-color: azure;
+}
+
+.description {
+    color: #617fb6;
+    font-weight: bold;
+}
