@@ -1,9 +1,21 @@
-body {
-    font-size: 20px;
+
+body{
     background-color: azure;
 }
 
+h1 {
+    font-size: 40px;
+    color: green;
+}
+
 .description {
-    color: #617fb6;
+    font-size: 20px;
+    color: darkblue;
+}
+
+.sleeping {
+    font-size: 20px;
     font-weight: bold;
 }
+
+
